@@ -1,2 +1,2 @@
-# database-project-
-Projeto realizado na disciplina de Banco de Dados da Universidade Federal de Viçosa, Campus Rio Paranaíba.
+# database-project
+Este projeto é um sistema de banco de dados acadêmico, que permite o gerenciamento de informações de alunos, professores, cursos, disciplinas, turmas e históricos acadêmicos, garantindo a organização e integridade dos dados.
